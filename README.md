@@ -5,10 +5,7 @@
 
 I'm Korean Lovers💞 and My hobbies are watching Korean dramas👩‍💻 scrolling Tiktok👀 and cooking👩‍🍳
 
-<br>
-
-<h3 align="left"About me👩🏼:</h3>
-
+## About Me 👩🏼
 - 🏫 I’m an Informatics Engineering Student at Singaperbangsa Karawang
 
 - 🖥️ I’m currently learning **Programming**
@@ -16,8 +13,6 @@ I'm Korean Lovers💞 and My hobbies are watching Korean dramas👩‍💻 scrol
 - 📫 How to reach me **karkartika6@gmail.com** or
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tikaaaa6)
   [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6285900028787)
-
-<br>
 
   
 ## Connect With Me🤝🏻
