@@ -5,26 +5,27 @@
 
 I'm Korean Lovers💞 and My hobbies are watching Korean dramas👩‍💻 scrolling Tiktok👀 and cooking👩‍🍳
 
-- 📫 How to reach me : **karkartika6@gmail.com** or
+<br>
 
-  __Check out my repository:__
+<h3 align="left"About me👩🏼:</h3>
 
-<div>
-  <p>
-    <a href="https://github.com/Kartika06/Praktikum-PBW">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartika06&repo=Praktikum-PBW" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+- 🏫 I’m an Informatics Engineering Student at Singaperbangsa Karawang
 
-## Connect With Me
+- 🖥️ I’m currently learning **Programming**
+
+- 📫 How to reach me **karkartika6@gmail.com** or
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tikaaaa6)
+  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6285900028787)
+
+<br>
+
+  
+## Connect With Me🤝🏻
 <p align="left">
 <a href="https://www.facebook.com/Kartiika06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kartika" height="30" width="40" /></a>
 <a href="https://instagram.com/kartikaa_tikkaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kartika06" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCjfxhTOITDL3SWFmBuVEV5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rahuldkjain" height="30" width="40" /></a>
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tikaaaa6)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6285900028787)
-</p>
+
 
 ## Languages And Tools
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
