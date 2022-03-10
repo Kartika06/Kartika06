@@ -24,7 +24,7 @@ My hobbies are learning new things, watching Korean dramas, scrolling Tiktok, an
 
 ## Connect With Me
 <p align="left">
-<a href="https://www.facebook.com/Kartiika06" target="blank"><img align="center" src="https://raw.githubusercontent.com/Kartika06/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kartika" height="30" width="40" /></a>
-<a href="https://instagram.com/kartikaa_tikkaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/Kartika06/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kartika06" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCjfxhTOITDL3SWFmBuVEV5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/Kartika06/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Kartika06" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Kartiika06" target="blank"><img align="center" src="https://raw.githubusercontent.com/Kartika/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kartika" height="30" width="40" /></a>
+<a href="https://instagram.com/kartikaa_tikkaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/Kartika/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kartika06" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCjfxhTOITDL3SWFmBuVEV5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/Kartika/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Kartika" height="30" width="40" /></a>
 </p>
