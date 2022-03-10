@@ -3,6 +3,6 @@
 
 ### Hi there 👋 I'm Kartika
 
-I'm currently an informatics engineering student at Singaperbangsa Karawang University, Indonesia. I'm currenntly learning <code>Web Development</code>, <code>Cloud Computing</code> and <code>Machine Learning</code>. Beside that, I'm also interested in <code>Data science</code> and <code>Mobile development</code>.
+I'm currently an informatics engineering student at Singaperbangsa Karawang University, Indonesia. I'm currenntly learning <code>Data Science</code>, <code>Mysql</code> and <code>Web Development</code>.
 
-I like to read, watch youtube and play games and sports. And also, i like to explore new things everyday, especially IT-related things.
+My hobbies are learning new things, watching Korean dramas, scrolling Tiktok, and cooking.
