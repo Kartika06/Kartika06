@@ -3,7 +3,7 @@
 
 ### Annyeonghaseyo 👋 I'm Kartika
 
-I'm Korean Lovers💞 and My hobbies are watching Korean dramas👩‍💻, scrolling Tiktok👀, and cooking👩‍🍳.
+I'm Korean Lovers💞 and My hobbies are watching Korean dramas👩‍💻 scrolling Tiktok👀 and cooking👩‍🍳
 
 - 📫 How to reach me : **karkartika6@gmail.com** or
 
