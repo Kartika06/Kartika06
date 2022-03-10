@@ -3,9 +3,7 @@
 
 ### Annyeonghaseyo 👋 I'm Kartika
 
-I'm an informatics engineering student at Singaperbangsa Karawang University, Indonesia. I'm currenntly learning <code>Data Science</code>, <code>Mysql</code> and <code>Web Development</code>.
-
-My hobbies are learning new things, watching Korean dramas, scrolling Tiktok, and cooking.
+I'm Korean Lovers💞 and My hobbies are watching Korean dramas👩‍💻, scrolling Tiktok👀, and cooking👩‍🍳.
 
 - 📫 How to reach me : **karkartika6@gmail.com** or
 
