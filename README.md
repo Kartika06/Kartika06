@@ -33,9 +33,9 @@ I'm Korean Lovers💞 and My hobbies are watching Korean dramas👩‍💻 scrol
 ## 📈 My Github Statistic ![Profile View Counter](https://komarev.com/ghpvc/?username=Kartika06)
 <p align="left">
 <a href="https://github.com/Kartika06">
-  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kartika06&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
-  <img width="38%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kartika06&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
-  <img width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartika06&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
-  <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=Kartika06&theme=react-dark&bg_color=000000&color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kartika06&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kartika06&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
+  <img width="99.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartika06&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
+  <img width="99.5%" src="https://activity-graph.herokuapp.com/graph?username=Kartika06&theme=react-dark&bg_color=000000&color=FFFFFF"/>
 </a>
 </p>
