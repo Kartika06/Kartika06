@@ -1,7 +1,7 @@
 ![Banner](./Tika.jpeg)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Kartika06&label=Profile%20views&color=0e75b6&style=flat" alt="Kartika06" /> </p>
 
-### Annyeonghaseyo 👋 I'm Kartika
+### Annyeonghaseyo <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> I'm [Kartika](https://github.com/Kartika06)👩‍💻
 
 I'm Korean Lovers💞 and My hobbies are watching Korean dramas👩‍💻 scrolling Tiktok👀 and cooking👩‍🍳
 
